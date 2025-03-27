@@ -1,5 +1,5 @@
 # Journal des Transactions Financières
-
+![Capture d'écran](capture/capture.png)
 ## Prérequis
 
 - Node.js 18+
@@ -10,8 +10,8 @@
 
 1. **Cloner le dépôt**
    ```bash
-   git clone <url-du-repo>
-   cd projet
+   git clone https://github.com/RebaiFedi/orgaxya2.git
+   cd orgaxya
    ```
 
 2. **Installer les dépendances**
